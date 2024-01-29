@@ -1,0 +1,29 @@
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+ul li{
+    list-style-type: none;
+    margin-right: 3em;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: var(--white);
+    width: 100vw;
+    height: 20vh;
+
+}
+@media  screen and (max-width:768px){
+    ul{
+        display: flex;
+        flex-direction: column;
+        display: none;
+
+        
+       
+    }
+} 
