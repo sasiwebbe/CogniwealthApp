@@ -1,18 +1,19 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+COGNIWEALTH: REVOLUTIONIZING FINANCE, EMPOWERING INVESTORS, AND SHAPING THE FUTU RE OF WEALTH MANAGEMENT 
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+ Predicting financial growth for future investment is the system that is used to take all kinds of finance data and store that data in the vector database and the Llama 2 model or the system is considered as a financial advisor and if we ask some investment question or any related question towards finance it will search on the data user provided before and the response will be formatted such a way that the response is coming from a human advisor because it uses Natural language processing(NLP) to understand the human nature and respond to there emotion and the system can be used by fund researchers and a laymen user who want to invest money in any finance related sector and this system can be feed with users wanted data and for front-end the react js is used and it is a frontend library and it is single page application and it is component based library and for backend Django is used and Llama 2 and pinecone db for storing vectors of the collected data.
+
+
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Natural Language Processing
+- Generative AI
+- Vector Databse
+- Similarity Search for Fast searching
+- The custom data selection feature is a added advantage
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -26,22 +27,28 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
+<img width="409" alt="arc" src="https://github.com/sasiwebbe/CogniwealthApp/assets/116338921/ec799a5f-65ae-4690-a4eb-9b24861ec68b">
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Home Screen
+<img width="958" alt="image" src="https://github.com/sasiwebbe/CogniwealthApp/assets/116338921/7771a773-24b0-4939-b1c7-70f570e7b6a6">
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - Finance Data Available
+
+
+#### Output3 - CogniWealth Tool
+
+
+
+#### Output4 - ChatPage
+
 
 
 ## Results and Impact
